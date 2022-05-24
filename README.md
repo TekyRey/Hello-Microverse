@@ -2,7 +2,7 @@
 
 # Hello Microverse Project
 
-> Description the project.
+> This is a html webpage that contains a header with a h1 in it
 
 
 ## Built With
@@ -23,10 +23,6 @@
 ### Setup
 Clone the repository using the command "git clone https://github.com/TekyRey/Hello-Microverse.git" in your local machine
 After cloning the repository, move into the folder you cloned into and open the index.html file using your browser
-
-
-
-
 
 ## Authors
 
