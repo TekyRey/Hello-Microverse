@@ -25,9 +25,11 @@ After cloning the repository, move into the folder you cloned into and open the 
 
 ## Authors
 
-👤 **Author1**
+👤 **Rehema Mwaka**
 
 - GitHub: [@githubhandle](https://github.com/TekyRey)
+- Twitter: [@twitterhandle](https://twitter.com/RehemaMwaka1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/mwlite/in/rehema-mwaka-48a1801ab)
 
 
 ## 🤝 Contributing
