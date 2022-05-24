@@ -16,25 +16,15 @@
 [Live Demo Link](https://tekyrey.github.io/Hello-Microverse/index.html)
 
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+- VS CODE
 
 ### Setup
+Clone the repository using the command "git clone https://github.com/TekyRey/Hello-Microverse.git" in your local machine
+After cloning the repository, move into the folder you cloned into and open the index.html file using your browser
 
-### Install
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
