@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello Microverse Project
 
 > Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+
 
 ## Live Demo (if available)
 
@@ -42,15 +42,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/TekyRey)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -65,8 +58,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Inspiration from Microverse
 
 ## 📝 License
 
