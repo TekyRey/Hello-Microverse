@@ -4,7 +4,6 @@
 
 > This is a html webpage that contains a header with a h1 in it
 
-
 ## Built With
 
 - HTML
